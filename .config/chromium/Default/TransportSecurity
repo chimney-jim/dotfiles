@@ -1,0 +1,23 @@
+{
+   "EPmcA7woOtrVWAGuo9c1YLR48mSW8KSLC0bED1BU0JM=": {
+      "created": 1323724213.000854,
+      "expiry": 1343926565.59959,
+      "include_subdomains": false,
+      "mode": "strict",
+      "public_key_hashes": [  ]
+   },
+   "bVzOnu6xyelN8iVLDSbFjyZVgXrXDyLSokjnq2hdUFs=": {
+      "created": 1323725629.161688,
+      "expiry": 1330448597.437839,
+      "include_subdomains": false,
+      "mode": "strict",
+      "public_key_hashes": [  ]
+   },
+   "mPA/INyvbBufIejotw/nxkqXMSZ6f1+GY8zDuTq0MfE=": {
+      "created": 1323724143.11229,
+      "expiry": 1343887678.333908,
+      "include_subdomains": false,
+      "mode": "strict",
+      "public_key_hashes": [  ]
+   }
+}
