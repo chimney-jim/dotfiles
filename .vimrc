@@ -617,5 +617,15 @@ endfunction
 
 " }}}
 
-" Things I added
+" Things I added ----------------------------------------------------------"{{{
 set ruler
+filetype plugin on
+set ofu=syntaxcomplete#Complete
+
+map <C-k> <C-w><Up>
+map <C-j> <C-w><Down>
+map <C-l> <C-w><Right>
+map <C-h> <C-w><Left>
+map <C-Tab> :bn<cr>
+map <C-s-Tab> :bp<cr>
+map <C-t> <C-w>v"}}}
